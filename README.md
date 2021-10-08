@@ -1,4 +1,4 @@
-# burp-suite-training
+# burpsuite-training
 
 ```
 docker build -t burpsuite-training .
